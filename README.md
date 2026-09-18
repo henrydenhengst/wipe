@@ -86,6 +86,12 @@ Aanbevolen: PNG met transparante achtergrond, vierkant, minimaal 300×300 px.
 /root/wipe-audit/wipe.sh --help
 ```
 
+Alternatief via GitHub:
+
+```
+curl -sSL https://raw.githubusercontent.com/henrydenhengst/wipe/main/wipe.sh --help
+```
+
 ---
 
 ## 4. Input-bestand – alle velden
