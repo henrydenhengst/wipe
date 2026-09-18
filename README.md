@@ -1,4 +1,4 @@
-# HOWTO – System Wipe Orchestrator
+# HOWTO – Disk Wipe Orchestrator
 
 Complete handleiding voor het installeren, configureren en gebruiken van het wipe-script.
 
