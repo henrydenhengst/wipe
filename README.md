@@ -371,7 +371,7 @@ Het PDF-certificaat is een **technisch bewijsdocument**, geen juridisch document
 - Onderteken met `--sign` (OpenSSL)
 - Bewaar private key veilig
 - Zorg voor 4-ogen principe bij uitvoering
-- Bewaar audit.jsonl onveranderlijk (WORM-storage aanbevolen)
+- Bewaar audit.json onveranderlijk (WORM-storage aanbevolen)
 
 NIST SP 800-88 Purge is de aanbevolen standaard voor moderne opslagmedia. DoD 3-pass is **legacy** en wordt door NIST niet meer aanbevolen.
 
