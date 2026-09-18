@@ -2,9 +2,8 @@
 set -euo pipefail
 
 # ============================================================
-# SYSTEM WIPE ORCHESTRATOR v7.2 - ENTERPRISE ULTIMATE+
+# SYSTEM WIPE ORCHESTRATOR - ENTERPRISE ULTIMATE
 # ============================================================
-# ✅ Alles uit v7.0 / v7.1
 # ✅ Input-bestand met klantgegevens (CUSTOMER/TICKET/LOCATION/OPERATOR/ASSET_TAG)
 # ✅ Logo in certificaat (rechtsboven, 3x3cm default)
 # ✅ PDF certificaat via weasyprint (voorkeur) of wkhtmltopdf
