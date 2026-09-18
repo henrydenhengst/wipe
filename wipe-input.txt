@@ -1,0 +1,10 @@
+# /root/wipe-audit/wipe-input.txt
+CUSTOMER="Naam Donateur"
+TICKET="INC-2026-0042"
+LOCATION="DC1-Rack A12"
+OPERATOR="Jan Jansen"
+ASSET_TAG="ASSET-9876"
+LOGO_PATH="/root/wipe-audit/logo.png"
+LOGO_WIDTH_MM=30
+LOGO_HEIGHT_MM=30
+LOGO_POSITION="top-right"
